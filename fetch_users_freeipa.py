@@ -1,6 +1,3 @@
-#The program pulls users from a specific group in FreeIPA and generates a report.
-#The use case of this script is for generating a report for SOC compliance.
-
 import urllib3
 import json
 import pandas as pd
